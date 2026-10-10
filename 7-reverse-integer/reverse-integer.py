@@ -10,7 +10,7 @@ class Solution:
             rem = x%10
             x=x//10
             rev=rev*10+rem
-        if rev < -(2**31) or rev > 2**31-1:
+        if rev < -(2**31) or rev > (2**31)-1:
             return 0
         if flag==1:    
             return rev * -1
