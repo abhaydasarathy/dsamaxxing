@@ -2,7 +2,7 @@
 
 # `dsamaxxing`
 
-**Abhay R Dasarathy.**
+**abhay r dasarathy**
 
 [![Language](https://img.shields.io/badge/Language-Python_3-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
