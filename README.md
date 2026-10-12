@@ -7,7 +7,7 @@
 [![Language](https://img.shields.io/badge/Language-Python_3-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
 <!-- BADGE_SOLVED_START -->
-[![Problems Solved](https://img.shields.io/badge/Solved-8-10B981?style=flat-square)](https://github.com/abhaydasarathy/dsamaxxing)
+[![Problems Solved](https://img.shields.io/badge/Solved-9-10B981?style=flat-square)](https://github.com/abhaydasarathy/dsamaxxing)
 <!-- BADGE_SOLVED_END -->
 [![Sync](https://img.shields.io/badge/Sync-LeetSync-8B5CF6?style=flat-square)](https://github.com/LeetSync)
 
@@ -30,10 +30,10 @@ Personal archive dedicated to mastering Data Structures & Algorithms. Every prob
 <!-- STATS_START -->
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | `6` |
+| 🟢 **Easy** | `7` |
 | 🟡 **Medium** | `1` |
 | 🔴 **Hard** | `1` |
-| **Total Solved** | **`8`** |
+| **Total Solved** | **`9`** |
 <!-- STATS_END -->
 
 ---
@@ -47,6 +47,7 @@ Personal archive dedicated to mastering Data Structures & Algorithms. Every prob
 | 0004 | [Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard | Array, Binary Search, Divide & Conquer | [Python](./4-median-of-two-sorted-arrays/median-of-two-sorted-arrays.py) |
 | 0007 | [Reverse Integer](7-reverse-integer) | 🟡 Medium | Math | [Python](./7-reverse-integer/reverse-integer.py) |
 | 0009 | [Palindrome Number](9-palindrome-number) | 🟢 Easy | Math | [Python](./9-palindrome-number/palindrome-number.py) |
+| 0058 | [Length of Last Word](58-length-of-last-word) | 🟢 Easy | Algorithms | [Python](./58-length-of-last-word/length-of-last-word.py) |
 | 0125 | [Valid Palindrome](125-valid-palindrome) | 🟢 Easy | Two Pointers, String | [Python](./125-valid-palindrome/valid-palindrome.py) |
 | 0217 | [Contains Duplicate](217-contains-duplicate) | 🟢 Easy | Array, Hash Table | [Python](./217-contains-duplicate/contains-duplicate.py) |
 | 0242 | [Valid Anagram](242-valid-anagram) | 🟢 Easy | Hash Table, String, Sorting | [Python](./242-valid-anagram/valid-anagram.py) |
